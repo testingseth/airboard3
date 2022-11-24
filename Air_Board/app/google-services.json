@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054755078118",
+    "project_id": "airdrawformyself",
+    "storage_bucket": "airdrawformyself.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054755078118:android:532db0f24314f453202027",
+        "android_client_info": {
+          "package_name": "airdraw.formyself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054755078118-82012i9q275p46ed2d38ffetsu7bgtpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjDFe03CgwkJDHRRH3KKBvJaHt_b3m_5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054755078118-82012i9q275p46ed2d38ffetsu7bgtpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
